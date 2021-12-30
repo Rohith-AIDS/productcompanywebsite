@@ -311,13 +311,13 @@ The RTech Way is to be Responsive, Respectful, Resourceful, and Reliable.
 
 ## OUTPUT:
 ### Home Page:
-![gitlogo](1.png)
+![gitlogo](1.jpg)
 ### Product Page:
-![gitlogo](2.png)
+![gitlogo](2.jpg)
 ### People Page:
-![gitlogo](3.png)
+![gitlogo](3.jpg)
 ### ContactUs Page:
-![gitlogo](4.png)
+![gitlogo](4.jpg)
 
 ## Result:
 
